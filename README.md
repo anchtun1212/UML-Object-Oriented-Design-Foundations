@@ -6,3 +6,7 @@ UML and Object-Oriented Design Foundations
 Download StartUML for the creation of UML diagrams: https://staruml.io/
 
 Download Atom as a free and open-source text and source code editor developped by GitHub: https://atom.io/
+
+# You can Test Polymorphism example:
+
+com.anchtun.ood.polymorphism.Test
